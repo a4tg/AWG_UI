@@ -1,0 +1,34 @@
+{
+  "servers": [
+    {
+      "id": "nl",
+      "name": "Netherlands",
+      "host": "31.76.115.150",
+      "endpoint_host": "31.76.115.150",
+      "location": "Netherlands",
+      "ssh_user": "root",
+      "ssh_port": 22,
+      "identity_file": ""
+    },
+    {
+      "id": "de",
+      "name": "Germany",
+      "host": "2.26.11.158",
+      "endpoint_host": "2.26.11.158",
+      "location": "Germany",
+      "ssh_user": "root",
+      "ssh_port": 22,
+      "identity_file": ""
+    },
+    {
+      "id": "se",
+      "name": "Sweden",
+      "host": "193.23.200.182",
+      "endpoint_host": "193.23.200.182",
+      "location": "Sweden",
+      "ssh_user": "root",
+      "ssh_port": 22,
+      "identity_file": ""
+    }
+  ]
+}
